@@ -1,2 +1,14 @@
-
-/* Your CSS Code here. */
+#Image{
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+}
+#skills h3{
+         color: brown;
+}
+header{
+      color: brown;
+}
+#projects h3{
+    color: brown;
+}
